@@ -5,12 +5,14 @@ namespace tutorial1
     {
         static void Main(string[] args)
         {
-            Random random = new Random();
-            int num = random.Next(1, 200);
-            Console.WriteLine(num);
+            Console.WriteLine("Enter side A: ");
+            double a = Convert.ToDouble(Console.ReadLine());
 
-            double num2 = random.NextDouble();
-            Console.WriteLine(num2);
+            Console.WriteLine("Enter side B: ");
+            double b = Convert.ToDouble(Console.ReadLine());
+
+            double c = Math.Sqrt(Math.Pow(a,2) + Math.Pow(b,2));
+            Console.WriteLine("The hypotenuse equals: " + c);
         }
     }
 }
