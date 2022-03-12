@@ -5,13 +5,15 @@ namespace tutorial1
     {
         static void Main(string[] args)
         {
-            Console.Write("Please enter your name: ");
-            String name = Console.ReadLine();
-            Console.WriteLine("Hello, " + name);
-
-            Console.Write("Please enter your age: ");
-            int age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You are " + age + " years old.");
+            int friends = 5;
+            friends++;
+            friends += 6;
+            friends -= 2;
+            friends--;
+            friends *= 6;
+            friends /= 4;
+            int remainder = friends % 3;
+            Console.WriteLine(remainder);
         }
     }
 }
