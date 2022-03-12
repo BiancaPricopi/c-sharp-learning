@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\bin\Debug\net6.0\tutorial1.exe
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\bin\Debug\net6.0\tutorial1.deps.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\bin\Debug\net6.0\tutorial1.runtimeconfig.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\bin\Debug\net6.0\tutorial1.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\bin\Debug\net6.0\tutorial1.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.AssemblyInfo.cs
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\refint\tutorial1.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\tutorial1.genruntimeconfig.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\tutorial1\tutorial1\obj\Debug\net6.0\ref\tutorial1.dll
