@@ -5,25 +5,12 @@ namespace tutorial1
     {
         static void Main(string[] args)
         {
-            double x = 3;
-            double a = Math.Pow(x, 2);
-            double b = Math.Sqrt(a);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            Random random = new Random();
+            int num = random.Next(1, 200);
+            Console.WriteLine(num);
 
-            int c = -5;
-            Console.WriteLine(Math.Abs(c));
-
-            double d = Math.Round(3.14);
-            Console.WriteLine(d);
-
-            double e = Math.Ceiling(3.14);
-            Console.WriteLine(e);
-
-            double f = 5.5;
-            Console.WriteLine(Math.Max(x,f));
-
-            Console.WriteLine(Math.Min(x,f));
+            double num2 = random.NextDouble();
+            Console.WriteLine(num2);
         }
     }
 }
