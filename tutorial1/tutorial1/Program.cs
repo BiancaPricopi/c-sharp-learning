@@ -1,18 +1,59 @@
 ﻿using System;
+using System.Collections;
+
 namespace tutorial1
 {
-    class Program
+    public class Solution
     {
-        static void Main(string[] args)
+        public int NumRescueBoats(int[] people, int limit)
         {
-            Console.WriteLine("Enter side A: ");
-            double a = Convert.ToDouble(Console.ReadLine());
+            int numOfBoats = 0;
+            int remainingSpace;
+            List<int> peopleInBoats = new List<int>();
+            Array.Sort(people);
+            Array.Reverse(people);
 
-            Console.WriteLine("Enter side B: ");
-            double b = Convert.ToDouble(Console.ReadLine());
+            for(int i = 0; i < people.Length; i++)
+            {
+                Console.WriteLine(people[i]);
+            }
+            
+            for (int i = 0; i < people.Length; i++)
+            {
+                if(!peopleInBoats.Contains(i))
+                {
+                    if (people[i] < limit)
+                    {
+                        peopleInBoats.Add(i);
+                        remainingSpace = limit - people[i];
+                        for (int j = i + 1; j < people.Length; j++)
+                        {
+                            if (people[j] <= remainingSpace && !peopleInBoats.Contains(j))
+                            {
+                                peopleInBoats.Add(j);
+                                break;
+                            }
+                        }
+                        numOfBoats++;
+                    }
+                    else if (people[i] == limit)
+                    {
+                        peopleInBoats.Add(i);
+                        numOfBoats++;
+                    }
 
-            double c = Math.Sqrt(Math.Pow(a,2) + Math.Pow(b,2));
-            Console.WriteLine("The hypotenuse equals: " + c);
+                }
+            }
+            return numOfBoats;
+        }
+    }
+    public class Test
+    {
+        static void Main()
+        {
+            Solution s = new Solution();
+            int[] array = new int[] { 3, 8, 7, 1, 4 };
+            Console.WriteLine(s.NumRescueBoats(array, 9));
         }
     }
 }
