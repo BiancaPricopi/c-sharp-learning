@@ -9,39 +9,29 @@ namespace tutorial1
         {
             int numOfBoats = 0;
             int remainingSpace;
-            List<int> peopleInBoats = new List<int>();
             Array.Sort(people);
             Array.Reverse(people);
-
-            for(int i = 0; i < people.Length; i++)
-            {
-                Console.WriteLine(people[i]);
-            }
             
             for (int i = 0; i < people.Length; i++)
             {
-                if(!peopleInBoats.Contains(i))
+                if (people[i] < limit)
                 {
-                    if (people[i] < limit)
+                    remainingSpace = limit - people[i];
+                    for (int j = people.Length - 1; j > i; j--)
                     {
-                        peopleInBoats.Add(i);
-                        remainingSpace = limit - people[i];
-                        for (int j = i + 1; j < people.Length; j++)
+                        if (people[j] <= remainingSpace)
                         {
-                            if (people[j] <= remainingSpace && !peopleInBoats.Contains(j))
-                            {
-                                peopleInBoats.Add(j);
-                                break;
-                            }
+                            people[j] = limit + 10;
+                            break;
                         }
-                        numOfBoats++;
                     }
-                    else if (people[i] == limit)
-                    {
-                        peopleInBoats.Add(i);
-                        numOfBoats++;
-                    }
-
+                    numOfBoats++;
+                    people[i] = limit + 10;
+                }
+                else if (people[i] == limit)
+                {
+                    people[i] = limit + 10;  
+                    numOfBoats++;
                 }
             }
             return numOfBoats;
