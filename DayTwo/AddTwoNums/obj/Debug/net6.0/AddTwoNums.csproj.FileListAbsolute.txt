@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\bin\Debug\net6.0\AddTwoNums.exe
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\bin\Debug\net6.0\AddTwoNums.deps.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\bin\Debug\net6.0\AddTwoNums.runtimeconfig.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\bin\Debug\net6.0\AddTwoNums.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\bin\Debug\net6.0\AddTwoNums.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.AssemblyInfo.cs
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\refint\AddTwoNums.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\AddTwoNums.genruntimeconfig.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayTwo\AddTwoNums\obj\Debug\net6.0\ref\AddTwoNums.dll
