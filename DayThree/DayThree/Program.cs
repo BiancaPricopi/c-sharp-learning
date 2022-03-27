@@ -18,9 +18,14 @@
                 {
                     maxSubstringLength = substringLenght;
                 }
-                substringLenght = 0;
+                substringLenght = 1;
                 list.Clear();
+                list.Add(s[i]);
             }
+        }
+        if (substringLenght > maxSubstringLength)
+        {
+            maxSubstringLength = substringLenght;
         }
         return maxSubstringLength;
     }
@@ -31,7 +36,7 @@ public class Test
     public static void Main()
     {
         Solution solution = new Solution();
-        int l = solution.LengthOfLongestSubstring("pwwkew");
+        int l = solution.LengthOfLongestSubstring("aab");
         Console.WriteLine("length = " + l);
     }
 }
