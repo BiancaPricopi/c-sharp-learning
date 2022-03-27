@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\bin\Debug\net6.0\DayThree.exe
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\bin\Debug\net6.0\DayThree.deps.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\bin\Debug\net6.0\DayThree.runtimeconfig.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\bin\Debug\net6.0\DayThree.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\bin\Debug\net6.0\DayThree.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.AssemblyInfo.cs
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\refint\DayThree.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\DayThree.genruntimeconfig.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\DayThree\obj\Debug\net6.0\ref\DayThree.dll
