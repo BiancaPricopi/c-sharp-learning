@@ -2,30 +2,33 @@
 {
     public int LengthOfLongestSubstring(string s)
     {
-        int substringLenght = 0;
+        int substringLength = 0;
         int maxSubstringLength = 0;
         List<char> list = new List<char>();
-        for(int i = 0; i < s.Length; i++)
+        Dictionary<char, int> dictionary = new Dictionary<char, int>();
+        for (int j = 0; j < s.Length; j++)
         {
-            if(!list.Contains(s[i]))
+            if (!list.Contains(s[j]))
             {
-                list.Add(s[i]);
-                substringLenght++;
+               list.Add(s[j]);
+               substringLength++;
             }
             else
             {
-                if(substringLenght > maxSubstringLength)
+                if (substringLength > maxSubstringLength)
                 {
-                    maxSubstringLength = substringLenght;
+                    maxSubstringLength = substringLength;
                 }
-                substringLenght = 1;
+                substringLength = 0;
                 list.Clear();
-                list.Add(s[i]);
+                j = dictionary[s[j]];
             }
+            dictionary[s[j]] = j;
         }
-        if (substringLenght > maxSubstringLength)
+            
+        if (substringLength > maxSubstringLength)
         {
-            maxSubstringLength = substringLenght;
+            maxSubstringLength = substringLength;
         }
         return maxSubstringLength;
     }
@@ -36,7 +39,8 @@ public class Test
     public static void Main()
     {
         Solution solution = new Solution();
-        int l = solution.LengthOfLongestSubstring("aab");
+        int l = solution.LengthOfLongestSubstring("bbbbbbbbb");
         Console.WriteLine("length = " + l);
+        
     }
 }
