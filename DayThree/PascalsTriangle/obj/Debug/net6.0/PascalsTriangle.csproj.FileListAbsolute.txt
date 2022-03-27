@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.AssemblyInfo.cs
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\bin\Debug\net6.0\PascalsTriangle.exe
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\bin\Debug\net6.0\PascalsTriangle.deps.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\bin\Debug\net6.0\PascalsTriangle.runtimeconfig.json
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\bin\Debug\net6.0\PascalsTriangle.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\bin\Debug\net6.0\PascalsTriangle.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\refint\PascalsTriangle.dll
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.pdb
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\PascalsTriangle.genruntimeconfig.cache
+C:\Users\Admin\Documents\cSharp\c-sharp-learning\DayThree\PascalsTriangle\obj\Debug\net6.0\ref\PascalsTriangle.dll
